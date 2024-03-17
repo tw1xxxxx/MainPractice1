@@ -1,0 +1,15 @@
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\bin\Debug\PracticeDataset.exe.config
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\bin\Debug\PracticeDataset.exe
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\bin\Debug\PracticeDataset.pdb
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.csproj.AssemblyReference.cache
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\MainWindow.g.cs
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\App.g.cs
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset_MarkupCompile.cache
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset_MarkupCompile.lref
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\MainWindow.baml
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.g.resources
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.Properties.Resources.resources
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.csproj.GenerateResource.cache
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.csproj.CoreCompileInputs.cache
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.exe
+C:\Users\mixar\source\repos\PracticeDataset\PracticeDataset\obj\Debug\PracticeDataset.pdb
